@@ -92,7 +92,7 @@ The core research question this project investigates is not just *"how accurate 
 - 📊 **Confidence-scored predictions** — every output includes class probabilities, not just a single label
 - 🧩 **Modular model design** — each modality's model can be trained, evaluated, and swapped independently
 - ⚡ **REST API backend** — FastAPI service that can be consumed by any frontend or third-party client
-- 🖥️ **Modern web frontend** — React/Next.js interface for upload, visualization, and report generation
+- 🖥️ **Modern App frontend** — React Native interface for upload, visualization, and report generation
 
 ---
 
